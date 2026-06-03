@@ -1,0 +1,10 @@
+langchain-openai
+langchain-core
+langgraph
+openai
+typing-extensions
+python-dotenv
+
+# Optional / useful developer tools
+black
+pytest
